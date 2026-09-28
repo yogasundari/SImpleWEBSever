@@ -1,6 +1,9 @@
 # SImpleWEBSever
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:28-09-2026
+## Name:YUVASRI P
+## Register Number:26018337
+
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
